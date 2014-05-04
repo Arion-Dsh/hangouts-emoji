@@ -3,6 +3,10 @@
 
 the google hangouts emoji set _(size 28x28)_
 
+here's some examples:
+
+![Some examples of the hangouts emoji](http://i.imgur.com/IFWXSHt.png)
+
 covers most of the [the emoji cheat sheet](http://www.emoji-cheat-sheet.com/) for emoji.
 the hangouts set does not include the following:
 
